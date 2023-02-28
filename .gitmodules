@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/minology2k/me-fit-be.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/minology2k/me-fit-fe.git
